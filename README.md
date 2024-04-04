@@ -1,0 +1,1 @@
+# Python-Mercado-Financeiro-quantas_lojas_a_renner_consegue_abrir
